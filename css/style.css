@@ -4,3 +4,21 @@ div{
     background: #090;
     cursor: pointer;
 }
+ul{
+    list-style: none;
+    color: #0ff;
+}
+ul li{
+    float: left;
+    background:#00d;
+    width: 100px;
+    padding: 10px;
+    text-align: center;
+    margin: 5px;
+    border:2px solid #f0d;
+}
+li:hover{
+    background:#dfd;
+    color: #000;
+    border:2px solid #0d0;
+}
