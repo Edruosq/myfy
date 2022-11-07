@@ -6,3 +6,4 @@
 
 [百度](http://www.baidu.com)
 
+[主页](https://edruosq.github.io/myfy/)
